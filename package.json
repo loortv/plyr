@@ -1,7 +1,7 @@
 {
-  "name": "plyr",
+  "name": "@loortv/plyr",
   "version": "3.8.0",
-  "description": "A simple, accessible and customizable HTML5, YouTube and Vimeo media player",
+  "description": "A fork of the amazing Plyr video player by Sam Potts. Contains native chromecast support.",
   "homepage": "https://plyr.io",
   "author": "Sam Potts <sam@potts.es>",
   "main": "dist/plyr.js",
@@ -23,10 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sampotts/plyr.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sampotts/plyr/issues"
+    "url": "git@github.com:loortv/plyr.git"
   },
   "browserslist": "> 1%",
   "scripts": {
