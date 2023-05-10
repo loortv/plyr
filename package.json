@@ -1,6 +1,6 @@
 {
   "name": "@loortv/plyr",
-  "version": "3.8.0",
+  "version": "3.8.1",
   "description": "A fork of the amazing Plyr video player by Sam Potts. Contains native chromecast support.",
   "homepage": "https://plyr.io",
   "author": "Sam Potts <sam@potts.es>",
